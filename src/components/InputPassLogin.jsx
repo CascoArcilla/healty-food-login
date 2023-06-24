@@ -12,6 +12,7 @@ export default function InputPassLogin() {
           type="password"
           id="input-group-2"
           placeholder="Ingrese su contraseña"
+          required
           class="bg-gray-700 border border-gray-600 text-white text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 placeholder-gray-300">
         </input>
       </div>
